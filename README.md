@@ -4,10 +4,10 @@
 
 2.[Assignment-2](https://github.com/naresh681/AIML_LAB/blob/main/Lab02-AIML.ipynb)
 
-3.[Assignment-3]()
+3.[Assignment-3](https://github.com/naresh681/AIML_LAB/blob/main/Lab03-AIML.ipynb)
 
-4.[Assignment-4]()
+4.[Assignment-4](https://github.com/naresh681/AIML_LAB/blob/main/Lab04-AIML.ipynb)
 
-5.[Assignment-5]()
+5.[Assignment-5](https://github.com/naresh681/AIML_LAB/blob/main/Lab05-AIML.ipynb)
 
-6.[assignment-6]()
+6.[assignment-6](https://github.com/naresh681/AIML_LAB/blob/main/Lab06-AIML.ipynb)
