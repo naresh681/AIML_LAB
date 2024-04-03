@@ -15,3 +15,7 @@
 7.[Assignment-7](https://github.com/naresh681/AIML_LAB/blob/main/Lab07-AIML.ipynb)
 
 8.[Assignment-8](https://github.com/naresh681/AIML_LAB/blob/main/Lab08-AIML.ipynb)
+
+9.[Assignment-9](https://github.com/naresh681/AIML_LAB/blob/main/Lab09-AIML.ipynb)
+
+10.[Assignment-10](https://github.com/naresh681/AIML_LAB/blob/main/Lab10-AIML.ipynb)
